@@ -1,26 +1,25 @@
-body
-{
-	background-image:url("../imgs/lty.jpg");
-	background-repeat:no-repeat;
-	background-position:top center;
-	background-attachment:fixed;
-	background-size: 100%;
-    opacity:0.9;
+body {
+    background-image: url("https://yukinoto.github.io/imgs/lty.jpg");
+    background-repeat: no-repeat;
+    background-position: top center;
+    background-attachment: fixed;
+    background-size: 100%;
+    opacity: 0.9;
     z-index: 0;
 }
-div.tx
-{
-	background-color: aliceblue;
-	opacity:0.7;
-	position: fixed;
-	top: -50px;
-	left: -20px;
-	width: 110%;
+
+div.tx {
+    background-color: aliceblue;
+    opacity: 0.7;
+    position: fixed;
+    top: -50px;
+    left: -20px;
+    width: 110%;
     height: 120%;
     z-index: 1;
 }
-div.bg
-{
+
+div.bg {
     background-color: aliceblue;
     opacity: 1.0;
     position: absolute;
@@ -28,8 +27,8 @@ div.bg
     top: 50%;
     z-index: 4;
 }
-#url_window
-{
+
+#url_window {
     position: absolute;
     align-self: auto;
     z-index: 5;
