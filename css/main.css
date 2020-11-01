@@ -1,16 +1,16 @@
 body {
-    background-image: url("imgs/timg.jpg");
+    background-image: url("../imgs/timg.jpg");
     background-repeat: no-repeat;
     background-position: top center;
     background-attachment: fixed;
     background-size: 100%;
-    opacity: 0.9;
+    opacity: 0.8;
     z-index: 0;
 }
 
 div.txb {
     background-color: aliceblue;
-    opacity: 0.7;
+    opacity: 0.1;
     position: fixed;
     top: -50px;
     left: -20px;
