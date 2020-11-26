@@ -2,4 +2,10 @@ a{
 	color: darkgoldenrod;
 	text-decoration: none;
 	font-size: 120%;
+	left: 20%;
+	position: absolute;
+}
+
+h1{
+	color: indigo;
 }

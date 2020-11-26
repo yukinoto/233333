@@ -42,3 +42,10 @@ div.ele {
     width: 100%;
     border: none;
 }
+
+#ipt{
+    position: absolute;
+    z-index: 10;
+    left: 80%;
+    top: 10%;
+}
